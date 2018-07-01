@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="cross over assessment" duration-ms="62233" started-at="2018-07-01T02:02:25Z" finished-at="2018-07-01T02:03:28Z">
+    <groups>
+    </groups>
+    <test name="send and validate email" duration-ms="62233" started-at="2018-07-01T02:02:25Z" finished-at="2018-07-01T02:03:28Z">
+      <class name="com.google.tests.EmailTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.google.tests.EmailTest@2c8d66b2]" name="setUp" is-config="true" duration-ms="8793" started-at="2018-07-01T07:32:25Z" finished-at="2018-07-01T07:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sendEmail()[pri:0, instance:com.google.tests.EmailTest@2c8d66b2]" name="sendEmail" duration-ms="22739" started-at="2018-07-01T07:32:34Z" finished-at="2018-07-01T07:32:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.google.tests.EmailTest@2c8d66b2]" name="tearDown" is-config="true" duration-ms="962" started-at="2018-07-01T07:32:57Z" finished-at="2018-07-01T07:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.google.tests.EmailTest@2c8d66b2]" name="setUp" is-config="true" duration-ms="8748" started-at="2018-07-01T07:32:58Z" finished-at="2018-07-01T07:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateSentEmail()[pri:0, instance:com.google.tests.EmailTest@2c8d66b2]" name="validateSentEmail" duration-ms="20054" started-at="2018-07-01T07:33:07Z" finished-at="2018-07-01T07:33:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSentEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.google.tests.EmailTest@2c8d66b2]" name="tearDown" is-config="true" duration-ms="922" started-at="2018-07-01T07:33:27Z" finished-at="2018-07-01T07:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.google.tests.EmailTest -->
+    </test> <!-- send and validate email -->
+  </suite> <!-- cross over assessment -->
+</testng-results>

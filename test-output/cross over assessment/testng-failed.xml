@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [cross over assessment]">
+  <test name="send and validate email">
+    <classes>
+      <class name="com.google.tests.EmailTest"/>
+    </classes>
+  </test> <!-- send and validate email -->
+</suite> <!-- Failed suite [cross over assessment] -->
